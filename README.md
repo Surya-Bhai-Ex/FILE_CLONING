@@ -23,6 +23,6 @@ git clone https://github.com/Surya-Bhai-Ex/FILE_CLONING.git
 
 cd FILE_CLONING
 
-python SURYA_XD.py
+python suryaop.py
 
 #DECODE KARKE KYA KAROGE DIRECT SCRIPT AAKE LEKE JAAO
